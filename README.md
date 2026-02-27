@@ -1,0 +1,1 @@
+# palimdrome-checker-app
